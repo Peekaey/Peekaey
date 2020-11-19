@@ -1,6 +1,6 @@
 ### Salutations 👋
 
- <script src="https://tryhackme.com/badge/115801"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Peekay.png" alt="TryHackMe">
 
 <!--
 **Peekaayy/Peekaayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
