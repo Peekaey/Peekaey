@@ -1,7 +1,4 @@
 
-
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6" height="175" width="475">
 
 ```
