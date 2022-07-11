@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6" height="230" width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6" height="200" width="400">
 
 ```
 Salutations 👋
@@ -7,9 +7,6 @@ Salutations 👋
 
    
          
-
-
-
 
 ```
 
