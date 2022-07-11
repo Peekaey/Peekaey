@@ -1,5 +1,24 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6" height="175" width="475">
+
+```
+Salutations 👋
+
+
+   
+         
+
+
+
+
+```
+
+
+
+> 
 
 <!--
 **Peekaayy/Peekaayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
