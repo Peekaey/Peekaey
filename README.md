@@ -1,8 +1,5 @@
- ### Salutations 👋
- [Tryhackme](https://tryhackme.com/p/Peekay)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
