@@ -1,8 +1,13 @@
 #### Languages
-<img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" /> <img height=32 src ="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg" />
+<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" />
+
 
 #### Tools
-<img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" /> <img height=32 src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" />
+<img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+
+
+
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
