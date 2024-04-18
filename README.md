@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=tokyonight&layout=compact&langs_count=6" height="170" width="350">
-</p>
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=transparent&layout=compact&langs_count=6" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Peekaey&show_icons=true&theme=transparent&card_width=320" />
+</a>
 
 
 > 
