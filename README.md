@@ -3,7 +3,7 @@
 
 #### Technologies
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/-Bun-FF6B6B?logo=bun&logoColor=white)  
- ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+ ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 
 
