@@ -9,7 +9,7 @@
 ![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 -->
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peekaey&theme=transparent&layout=compact&langs_count=6" />
 </a>
